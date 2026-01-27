@@ -30,7 +30,7 @@ public class SystemMain {
 //        System.out.println("copiedArray = " + Arrays.toString());
 
         // 프로그램 종료
-        System.exit(0);
+        System.exit(0); // 0이면 정상 종료, 0이 아니면 오류나 예외적인 종료
     }
 
 
