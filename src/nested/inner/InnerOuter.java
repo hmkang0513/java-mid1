@@ -1,4 +1,4 @@
-package time.test.nested.inner;
+package nested.inner;
 
 public class InnerOuter {
     private static int outClassValue = 3;

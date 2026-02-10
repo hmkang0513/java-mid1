@@ -1,4 +1,5 @@
-package time.test.nested.ex1;
+package nested.ex2;
+
 
 public class NetworkMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package time.test.nested.inner.ex1;
+package nested.inner.ex1;
 
 public class Car {
     private String model;

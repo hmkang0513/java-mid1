@@ -1,4 +1,4 @@
-package time.test.nested.ex2;
+package nested.ex2;
 
 
 public class Network {

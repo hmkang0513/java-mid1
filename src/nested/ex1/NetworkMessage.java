@@ -1,4 +1,4 @@
-package time.test.nested.ex1;
+package nested.ex1;
 
 public class NetworkMessage {
     private String content;
